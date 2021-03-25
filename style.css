@@ -1,0 +1,36 @@
+
+
+.h1{
+ text-align: center   
+    
+}
+
+.header{
+ text-align: center   
+    
+}
+
+
+.body{
+text-align: center;
+font-family: fantasy;
+font-size: 18;
+background-color: aliceblue
+}
+
+#img1{
+height: 200px auto;
+width: 150px auto;
+}
+#img2{
+height: 200px auto;
+width: 150px auto;
+}
+#img3{
+height: 200px auto;
+width: 150px auto;
+}
+#img4{
+height: 200px auto;
+width: 150px auto;
+}
